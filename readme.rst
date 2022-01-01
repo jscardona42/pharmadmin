@@ -1,3 +1,6 @@
+El objetivo de este sistema es administrar los procesos de una droguería o farmacia.
+
+
 ###################
 What is CodeIgniter
 ###################
